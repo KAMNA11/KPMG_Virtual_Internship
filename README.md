@@ -15,6 +15,7 @@ Data Insights - Targeting high-value customers based on customer demographics an
 ## Task 3
 Data Insights and Presentation - Using visualisations to present insights.
 
+[Data Insights](https://github.com/KAMNA11/KPMG_Virtual_Internship/blob/main/KPMG%20-%20Data%20Analysis%20%26%20Inisights.xlsx)
 
 # Certificate
 
