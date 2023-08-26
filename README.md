@@ -21,3 +21,7 @@ Data Insights and Presentation - Using visualisations to present insights.
 # Certificate
 
 [Certificate](https://github.com/KAMNA11/KPMG_Virtual_Internship/blob/main/Certificate.pdf)
+
+# Programme Detail
+
+[Programme Detail](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)
